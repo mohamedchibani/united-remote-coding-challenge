@@ -1,12 +1,9 @@
 # web-coding-challenge
 Work on the coding challenge - challenge proposed by the IT Company United Remote
 
-firstable, i wanna thank you for this awesome challenge, and for yor trust, it was a great experience for me that leads to practice and to think about it for the optimized solution
+- The web programming langage : PHP
 
-For the thechnical spec: i chose the PHP web programming langage because i did the most of projects and i solve some problems with it.
-In the first, it was expacting to work with Symfony framework , but it will take some time and also it needs some configuration to review my project
-
-About the functional spec, i tried to respect all of them with optimized tricks. I tried to test all fuctions 
+About the functional spec: 
 
 - As a User, I can sign up using my email & password
 - As a User, I can sign in using my email & password
